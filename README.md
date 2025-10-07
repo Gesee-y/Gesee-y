@@ -32,7 +32,7 @@ I started coding at 15, driven by my love for games and my desire to create some
 - **[Numerous LeetCode problems](https://github.com/Gesee-y/Leetcode-challenge)** solved in Rust, showcasing my understanding of algorithms and data structures.  
 - And much more — feel free to explore my repositories.  
 
-## Achievements in Mathematics
+## Academic achievements
 
 - Selected to represent my country in the French Mathematics Olympiad, though I did not reach the final phase.  
 - Participated in the IMMC 2025 as part of the Cameroon team.  
