@@ -2,58 +2,59 @@
 
 ## About Me
 
-I'm a fairly regular developer who enjoys low-level programming, optimizations, and other related topics.  
+I'm a fairly regular developer with an interest in low-level programming, optimizations, and other related topics.  
 I'm 18 years old and currently in my first year at the **National Advanced School of Engineering of Yaoundé**, studying Digital Humanities.  
-I started coding at 15, mainly because I loved games and wanted to create some myself.
+I started coding at 15, driven by my love for games and my desire to create some myself.
 
 ## My Languages 
 
-- Julia (my primary language)
-- Rust
-- Nim
-- Python
-- GDScript
-- HTML
-- CSS
-- JavaScript
+- Julia (primary language)  
+- Rust  
+- Nim  
+- Python  
+- GDScript  
+- HTML  
+- CSS  
+- JavaScript  
 
-# My tools
+## My Tools
 
-- Godot 4
-- Blender
+- Godot 4  
+- Gamemaker Studio 2
+- Blender  
 
-## My Main Achievements
+## Main Achievements
 
-- **[ReactiveECS.jl](https://github.com/Gesee-y/ReactiveECS.jl)**: The fastest and most flexible ECS in Julia, built with reactive pipelines and a database-like storage model.
-- **[Cruise.jl](https://github.com/Gesee-y/Cruise.jl)**: A game engine built entirely from scratch. I also developed the **[rendering engine](https://github.com/Gesee-y/Horizons.jl)**, **[physics engine](https://github.com/Gesee-y/Interactions.jl)**, **[audio engine](https://github.com/Gesee-y/WavesFlow.jl)**, the **[animation system](https://github.com/Gesee-y/ReAnimation.jl)** and more.
-- A complete **[Undertale engine](https://github.com/Gesee-y/xxxxtale-engine)** built on Godot 4 with already 3 games, designed with clean code principles in mind, SOLID principles, and composition over inheritance.
-- Worked on **Versetale**, a full deltarune fangame as one of the main programmers in collaborations with musicians and spriters.
-- **[Numerous LeetCode problems](https://github.com/Gesee-y/Leetcode-challenge)** solved in Rust, demonstrating my understanding of algorithms and data structures.
-- And much more — feel free to explore my repositories.
+- **[ReactiveECS.jl](https://github.com/Gesee-y/ReactiveECS.jl)**: The fastest and most flexible ECS in Julia, built with reactive pipelines and a database-like storage model.  
+- **[Cruise.jl](https://github.com/Gesee-y/Cruise.jl)**: A game engine developed entirely from scratch. I also created its **[rendering engine](https://github.com/Gesee-y/Horizons.jl)**, **[physics engine](https://github.com/Gesee-y/Interactions.jl)**, **[audio engine](https://github.com/Gesee-y/WavesFlow.jl)**, **[animation system](https://github.com/Gesee-y/ReAnimation.jl)**, and more.  
+- A complete **[Undertale engine](https://github.com/Gesee-y/xxxxtale-engine)** built on Godot 4, featuring three games so far, designed with clean code principles, SOLID principles, and composition over inheritance.  
+- Worked on **Versetale**, a full Deltarune fangame, as one of the main programmers in collaboration with musicians and artists.  
+- **[Numerous LeetCode problems](https://github.com/Gesee-y/Leetcode-challenge)** solved in Rust, showcasing my understanding of algorithms and data structures.  
+- And much more — feel free to explore my repositories.  
 
-## Realization
+## Achievements in Mathematics
 
-- I was selected in my country for the French mathematics olympiad, but I didn't reached the final phase.
-- I participated in the IMMC 2025 inthe Cameroun's team.
+- Selected to represent my country in the French Mathematics Olympiad, though I did not reach the final phase.  
+- Participated in the IMMC 2025 as part of the Cameroon team.  
 
-## Current activity
+## Current Studies
 
-Actually I'm actively learning at school:
+Currently, I am actively learning:
 
-- Statistics and applied maths
-- Computer architecture
-- Laws
-- General economy
-- Algorithms
+- Statistics and applied mathematics  
+- Computer architecture  
+- Law  
+- General economics  
+- Algorithms  
 
-## My Hobbies
+## Hobbies
 
-When I'm not coding (which is already one of my favorite hobbies), I enjoy:
+When I'm not coding (which is already one of my favorite activities), I enjoy:
 
-- Creepy games
-- Basketball
-- Game music
+- Horror games  
+- Basketball  
+- Game music  
 
 ## Contact
 
-You can check my profile to find all the links to reach me.
+You can check my profile for links to reach me.
