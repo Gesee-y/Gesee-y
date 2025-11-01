@@ -25,9 +25,10 @@ I started coding at 15, driven by my love for games and my desire to create some
 
 ## Main Achievements
 
-- **[Fragment Arrays](https://github.com/Gesee-y/FragmentArrays.jl)**: A new data structure I made. Like a sparse set but fragment when an element is deleted. Fuse when an element is added near 2 adjacent fragments.
+- **[Fragment Arrays](https://github.com/Gesee-y/FragmentArrays.jl)**: A novel data structure I made. Like a sparse set but fragment when an element is deleted. Fuse when an element is added near 2 adjacent fragments.
 - **[ReactiveECS.jl](https://github.com/Gesee-y/ReactiveECS.jl)**: The fastest and most flexible ECS in Julia, built with reactive pipelines and a fragment vector storage model. Shows iteration speed similar to archetype ECS while offering faster random access and structural changes.
 - **[Cruise.jl](https://github.com/Gesee-y/Cruise.jl)**: A game engine developed entirely from scratch. I also created its **[rendering engine](https://github.com/Gesee-y/Horizons.jl)**, **[physics engine](https://github.com/Gesee-y/Interactions.jl)**, **[audio engine](https://github.com/Gesee-y/WavesFlow.jl)**, **[animation system](https://github.com/Gesee-y/ReAnimation.jl)**, and more.  
+- **Numerous Julia packages**: an [event system](https://github.com/Gesee-y/EventNotifiers.jl), [tree structures](https://github.com/Gesee-y/NodeTree.jl), [game development mathematics library](https://github.com/Gesee-y/GDMathLib.jl), etc.
 - A complete **[Undertale engine](https://github.com/Gesee-y/xxxxtale-engine)** built on Godot 4, featuring three games so far, designed with clean code principles, SOLID principles, and composition over inheritance.  
 - Worked on **Versetale**, a full Deltarune fangame, as one of the main programmers in collaboration with musicians and artists.  
 - **[Numerous LeetCode problems](https://github.com/Gesee-y/Leetcode-challenge)** solved in Rust, showcasing my understanding of algorithms and data structures.  
