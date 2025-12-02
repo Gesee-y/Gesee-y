@@ -3,8 +3,7 @@
 ## About Me
 
 I'm a fairly regular developer with an interest in low-level programming, optimizations, and other related topics.  
-I'm 18 years old and currently in my first year at the **National Advanced School of Engineering of Yaoundé**, studying Digital Humanities.  
-I started coding at 15, driven by my love for games and my desire to create some myself.
+Driven by my love for games and the urge to make some myself.
 
 ## My Languages 
 
