@@ -28,7 +28,7 @@ Driven by my love for games and the urge to make some myself.
 
 - **[Cruise ECS]**: A powerful ECS based on FragmentVector, a chunk based sparse set. It offers a dual mode for sparse and dense entities, custom filters, introduce the ECS as a primitives to model multiple game architecture without duplications, high performances, eollback friendly and easy to use.
 
-- **Numerous Julia packages**: an [event system](https://github.com/Gesee-y/EventNotifiers.jl), [tree structures](https://github.com/Gesee-y/NodeTree.jl), [game development mathematics library](https://github.com/Gesee-y/GDMathLib.jl), [behavior systems](https://github.com/Gesee-y/Arceus.jl) using bitboard and PEXT for trait matching, [Animation system](https://github.com/Gesee-y/ReAnimation.jl), [windowing abstraction](https://github.com/Gesee-y/Outdoors.jl), [rendering system](https://github.com/Gesee-y/Horizons.jl), etc. Each with his documentation and CI.
+- **Numerous Julia packages**: an [event system](https://github.com/Gesee-y/EventNotifiers.jl), [tree structures](https://github.com/Gesee-y/NodeTree.jl), [game development mathematics library](https://github.com/Gesee-y/GDMathLib.jl), [behavior systems](https://github.com/Gesee-y/Arceus.jl) using bitboard and PEXT for trait matching, [Animation system](https://github.com/Gesee-y/ReAnimation.jl), [windowing abstraction](https://github.com/Gesee-y/Outdoors.jl), [rendering system](https://github.com/Gesee-y/Horizons.jl), [audio engine](https://github.com/Gesee-y/WavesFlow.jl). Each with his documentation and CI.
 
 - A complete **[Undertale engine](https://github.com/Gesee-y/xxxxtale-engine)** built on Godot 4, featuring three games so far, designed with clean code principles, SOLID principles, and composition over inheritance.  
 
