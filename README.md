@@ -24,10 +24,14 @@ Driven by my love for games and the urge to make some myself.
 
 ## Main Achievements
 
-- **[ReactiveECS.jl](https://github.com/Gesee-y/ReactiveECS.jl)**: The fastest and most flexible ECS in Julia, built with reactive pipelines and a fragment vector storage model. Shows iteration speed similar to archetype ECS while offering faster random access and structural changes, finally softening the dilemma sparse set vs archetypes. 
-- **[Cruise.jl](https://github.com/Gesee-y/Cruise.jl)**: A game engine developed entirely from scratch araoud plugin DAG (Direct Acyclic Graph) that handle dependencies and the game lifecycle. The engine allows to use multiple architectures at once (ECS, SceneTree, Dataflow or your own). I also created its **[rendering engine](https://github.com/Gesee-y/Horizons.jl)**, **[physics engine](https://github.com/Gesee-y/Interactions.jl)**, **[audio engine](https://github.com/Gesee-y/WavesFlow.jl)**, **[animation system](https://github.com/Gesee-y/ReAnimation.jl)**, and more.  
-- **Numerous Julia packages**: an [event system](https://github.com/Gesee-y/EventNotifiers.jl), [tree structures](https://github.com/Gesee-y/NodeTree.jl), [game development mathematics library](https://github.com/Gesee-y/GDMathLib.jl), etc. Each with his documentation and CI. 
+- **[Cruise](https://github.com/Gesee-y/Cruise)**: A game engine kernel developed in nim from scratch. It offers the necessary tools for anyone to build his own engine in no time. Offering a powerful ECS, rendering and windowing abstraction, CLI tools, events system, KV store, systems scheduling, ease of use.
+
+- **[Cruise ECS]**: A powerful ECS based on FragmentVector, a chunk based sparse set. It offers a dual mode for sparse and dense entities, custom filters, introduce the ECS as a primitives to model multiple game architecture without duplications, high performances, eollback friendly and easy to use.
+
+- **Numerous Julia packages**: an [event system](https://github.com/Gesee-y/EventNotifiers.jl), [tree structures](https://github.com/Gesee-y/NodeTree.jl), [game development mathematics library](https://github.com/Gesee-y/GDMathLib.jl), [behavior systems](https://github.com/Gesee-y/Arceus.jl) using bitboard and PEXT for trait matching, [Animation system](https://github.com/Gesee-y/ReAnimation.jl), [windowing abstraction](https://github.com/Gesee-y/Outdoors.jl), [rendering system](https://github.com/Gesee-y/Horizons.jl), etc. Each with his documentation and CI.
+
 - A complete **[Undertale engine](https://github.com/Gesee-y/xxxxtale-engine)** built on Godot 4, featuring three games so far, designed with clean code principles, SOLID principles, and composition over inheritance.  
+
 - Worked on **Versetale**, a full Deltarune fangame, as one of the main programmers in collaboration with musicians and artists.  
 - **[Numerous LeetCode problems](https://github.com/Gesee-y/Leetcode-challenge)** solved in Rust, showcasing my understanding of algorithms and data structures.  
 - And much more. feel free to explore my repositories.  
