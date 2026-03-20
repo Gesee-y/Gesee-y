@@ -7,9 +7,9 @@ Driven by my love for games and the urge to make some myself.
 
 ## My Languages 
 
-- Julia (primary language)  
+- Julia (primary language)
+- Nim (second primary language)
 - Rust  (learning)
-- Nim 
 - Python  
 - GDScript  
 - HTML  
