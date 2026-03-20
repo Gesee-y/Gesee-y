@@ -26,7 +26,7 @@ Driven by my love for games and the urge to make some myself.
 
 - **[Cruise](https://github.com/Gesee-y/Cruise)**: A game engine kernel developed in nim from scratch. It offers the necessary tools for anyone to build his own engine in no time. Offering a powerful ECS, rendering and windowing abstraction, CLI tools, events system, KV store, systems scheduling, ease of use.
 
-- **[Cruise ECS]**: A powerful ECS based on FragmentVector, a chunk based sparse set. It offers a dual mode for sparse and dense entities, custom filters, introduce the ECS as a primitives to model multiple game architecture without duplications, high performances, eollback friendly and easy to use.
+- **[Cruise ECS](https://github.com/Gesee-y/Cruise/blob/main/src/ecs/README.md)**: A powerful ECS based on FragmentVector, a chunk based sparse set. It offers a dual mode for sparse and dense entities, custom filters, introduce the ECS as a primitives to model multiple game architecture without duplications, high performances, eollback friendly and easy to use.
 
 - **Numerous Julia packages**: an [event system](https://github.com/Gesee-y/EventNotifiers.jl), [tree structures](https://github.com/Gesee-y/NodeTree.jl), [game development mathematics library](https://github.com/Gesee-y/GDMathLib.jl), [behavior systems](https://github.com/Gesee-y/Arceus.jl) using bitboard and PEXT for trait matching, [Animation system](https://github.com/Gesee-y/ReAnimation.jl), [windowing abstraction](https://github.com/Gesee-y/Outdoors.jl), [rendering system](https://github.com/Gesee-y/Horizons.jl), [audio engine](https://github.com/Gesee-y/WavesFlow.jl). Each with his documentation and CI.
 
